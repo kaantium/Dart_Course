@@ -22,7 +22,7 @@
 
 ## 3) ANDROID STUDIO Setup
 ![GIT BANNER](https://cdn.neowin.com/news/images/uploaded/2023/04/1681430710_android-studio-logo-hero_itvlb9sxwyxu.jpg)
-1. No need to select Android Virtual Device. It will be installed in the next stages.https://developer.android.com/studio?hl=tr
+1. No need to select Android Virtual Device. It will be installed in the next stages. https://developer.android.com/studio?hl=tr
 2. For Android SDK Location file path, select a file path without Turkish characters, spaces, etc. Example: `D:\sdk`
 3. Open SDK Manager from the Android Studio screen.
 4. SDK Platforms does not need extra selection.
