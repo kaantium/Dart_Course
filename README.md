@@ -1,12 +1,12 @@
 # INSTALLATIONS TO START FLUTTER
 
 ## 1) GIT Setup
-![GIT BANNER](https://ps.w.org/documents-from-git/assets/banner-1544x500.png?rev=2274827)
+![1](https://github.com/kaantium/Dart_Course/assets/138272244/b329215a-2bd8-4c74-8dfc-c0e5ecc0661c)
 1. Download the latest available version. https://www.git-scm.com/download/win
 2. Install without special configuration.
 
 ## 2) FLUTTER Setup 	
-![GIT BANNER](https://digital-dividend.se/wp-content/uploads/2023/06/Flutter-App-Development.png)
+![2](https://github.com/kaantium/Dart_Course/assets/138272244/2042c9ca-e9b2-4c1c-969c-93d374ef2411)
 1. Download the latest available version. https://docs.flutter.dev/release/archive?tab=windows
 2. Extract it from the zip file.
 3. Create a file named `src` in the file path that will not be affected by the format as much as possible and does not contain Turkish characters, spaces, etc.
@@ -21,7 +21,7 @@
 12. Type `flutter doctor -v` at the Command Prompt. Checks the status of the applications required to use flutter. 
 
 ## 3) ANDROID STUDIO Setup
-![GIT BANNER](https://cdn.neowin.com/news/images/uploaded/2023/04/1681430710_android-studio-logo-hero_itvlb9sxwyxu.jpg)
+![3](https://github.com/kaantium/Dart_Course/assets/138272244/1cb09e5f-38ea-4c5b-8cb9-990fb6b8134b)
 1. No need to select Android Virtual Device. It will be installed in the next stages. https://developer.android.com/studio?hl=tr
 2. For Android SDK Location file path, select a file path without Turkish characters, spaces, etc. Example: `D:\sdk`
 3. Open SDK Manager from the Android Studio screen.
@@ -38,7 +38,7 @@
 | License Required | `flutter config --android-studio-dir=“.../Android Studio installation file”` |
 
 ## 4) FLUTTER ve DART PLUGINS Setup
-![GIT BANNER](https://www.winterwind.com/images/services/flutter/flutter-dart.png)
+![4](https://github.com/kaantium/Dart_Course/assets/138272244/7fa8ff7c-2c8b-4ee4-ba44-64a23f0a2de5)
 1. In Android Studio, click on the Plugins tab.
 2. Install Flutter.
 3. The Dart plugin will be installed with Flutter. Check it.
