@@ -98,8 +98,8 @@ In this example:
     * 'B' prints 'Good!'
     * 'C' prints 'Fair!'
     * 'D' prints 'Poor!'
-* 'F' prints 'Fail!'
-If grade does not match any of the specified cases, the default case is executed, printing 'Invalid grade'.
+    * 'F' prints 'Fail!'
+* If grade does not match any of the specified cases, the default case is executed, printing 'Invalid grade'.
 
 ## OPERATORS
 ## LOOPS
